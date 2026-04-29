@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [6.6.0](https://github.com/terraform-aws-modules/terraform-aws-iam/compare/v6.5.0...v6.6.0) (2026-04-29)
+
+### Features
+
+* Add support for merging trust policy documents ([#643](https://github.com/terraform-aws-modules/terraform-aws-iam/issues/643)) ([9eba5f2](https://github.com/terraform-aws-modules/terraform-aws-iam/commit/9eba5f23bc711495971f05d23f2fa575bfcc9fbd))
+
 ## [6.5.0](https://github.com/terraform-aws-modules/terraform-aws-iam/compare/v6.4.0...v6.5.0) (2026-04-24)
 
 ### Features
